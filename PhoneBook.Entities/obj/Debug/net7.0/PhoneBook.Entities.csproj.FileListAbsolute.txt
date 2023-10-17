@@ -1,0 +1,12 @@
+C:\Users\STJ84063\source\repos\PhoneBook\PhoneBook.Entities\bin\Debug\net7.0\PhoneBook.Entities.deps.json
+C:\Users\STJ84063\source\repos\PhoneBook\PhoneBook.Entities\bin\Debug\net7.0\PhoneBook.Entities.dll
+C:\Users\STJ84063\source\repos\PhoneBook\PhoneBook.Entities\bin\Debug\net7.0\PhoneBook.Entities.pdb
+C:\Users\STJ84063\source\repos\PhoneBook\PhoneBook.Entities\obj\Debug\net7.0\PhoneBook.Entities.csproj.AssemblyReference.cache
+C:\Users\STJ84063\source\repos\PhoneBook\PhoneBook.Entities\obj\Debug\net7.0\PhoneBook.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STJ84063\source\repos\PhoneBook\PhoneBook.Entities\obj\Debug\net7.0\PhoneBook.Entities.AssemblyInfoInputs.cache
+C:\Users\STJ84063\source\repos\PhoneBook\PhoneBook.Entities\obj\Debug\net7.0\PhoneBook.Entities.AssemblyInfo.cs
+C:\Users\STJ84063\source\repos\PhoneBook\PhoneBook.Entities\obj\Debug\net7.0\PhoneBook.Entities.csproj.CoreCompileInputs.cache
+C:\Users\STJ84063\source\repos\PhoneBook\PhoneBook.Entities\obj\Debug\net7.0\PhoneBook.Entities.dll
+C:\Users\STJ84063\source\repos\PhoneBook\PhoneBook.Entities\obj\Debug\net7.0\refint\PhoneBook.Entities.dll
+C:\Users\STJ84063\source\repos\PhoneBook\PhoneBook.Entities\obj\Debug\net7.0\PhoneBook.Entities.pdb
+C:\Users\STJ84063\source\repos\PhoneBook\PhoneBook.Entities\obj\Debug\net7.0\ref\PhoneBook.Entities.dll

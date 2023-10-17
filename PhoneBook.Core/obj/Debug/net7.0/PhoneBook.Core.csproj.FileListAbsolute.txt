@@ -1,0 +1,15 @@
+C:\Users\STJ84063\source\repos\PhoneBook\PhoneBook.Core\bin\Debug\net7.0\PhoneBook.Core.deps.json
+C:\Users\STJ84063\source\repos\PhoneBook\PhoneBook.Core\bin\Debug\net7.0\PhoneBook.Core.dll
+C:\Users\STJ84063\source\repos\PhoneBook\PhoneBook.Core\bin\Debug\net7.0\PhoneBook.Core.pdb
+C:\Users\STJ84063\source\repos\PhoneBook\PhoneBook.Core\bin\Debug\net7.0\PhoneBook.Entities.dll
+C:\Users\STJ84063\source\repos\PhoneBook\PhoneBook.Core\bin\Debug\net7.0\PhoneBook.Entities.pdb
+C:\Users\STJ84063\source\repos\PhoneBook\PhoneBook.Core\obj\Debug\net7.0\PhoneBook.Core.csproj.AssemblyReference.cache
+C:\Users\STJ84063\source\repos\PhoneBook\PhoneBook.Core\obj\Debug\net7.0\PhoneBook.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STJ84063\source\repos\PhoneBook\PhoneBook.Core\obj\Debug\net7.0\PhoneBook.Core.AssemblyInfoInputs.cache
+C:\Users\STJ84063\source\repos\PhoneBook\PhoneBook.Core\obj\Debug\net7.0\PhoneBook.Core.AssemblyInfo.cs
+C:\Users\STJ84063\source\repos\PhoneBook\PhoneBook.Core\obj\Debug\net7.0\PhoneBook.Core.csproj.CoreCompileInputs.cache
+C:\Users\STJ84063\source\repos\PhoneBook\PhoneBook.Core\obj\Debug\net7.0\PhoneBook.Core.csproj.CopyComplete
+C:\Users\STJ84063\source\repos\PhoneBook\PhoneBook.Core\obj\Debug\net7.0\PhoneBook.Core.dll
+C:\Users\STJ84063\source\repos\PhoneBook\PhoneBook.Core\obj\Debug\net7.0\refint\PhoneBook.Core.dll
+C:\Users\STJ84063\source\repos\PhoneBook\PhoneBook.Core\obj\Debug\net7.0\PhoneBook.Core.pdb
+C:\Users\STJ84063\source\repos\PhoneBook\PhoneBook.Core\obj\Debug\net7.0\ref\PhoneBook.Core.dll

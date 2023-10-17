@@ -1,0 +1,410 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\STJ84063\\source\\repos\\PhoneBook\\PhoneBook\\PhoneBook.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\STJ84063\\source\\repos\\PhoneBook\\PhoneBook.Core\\PhoneBook.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\STJ84063\\source\\repos\\PhoneBook\\PhoneBook.Core\\PhoneBook.Core.csproj",
+        "projectName": "PhoneBook.Core",
+        "projectPath": "C:\\Users\\STJ84063\\source\\repos\\PhoneBook\\PhoneBook.Core\\PhoneBook.Core.csproj",
+        "packagesPath": "C:\\Users\\STJ84063\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\STJ84063\\source\\repos\\PhoneBook\\PhoneBook.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\STJ84063\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\STJ84063\\source\\repos\\PhoneBook\\PhoneBook.Entities\\PhoneBook.Entities.csproj": {
+                "projectPath": "C:\\Users\\STJ84063\\source\\repos\\PhoneBook\\PhoneBook.Entities\\PhoneBook.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.20, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\STJ84063\\source\\repos\\PhoneBook\\PhoneBook.DataAccess\\PhoneBook.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\STJ84063\\source\\repos\\PhoneBook\\PhoneBook.DataAccess\\PhoneBook.DataAccess.csproj",
+        "projectName": "PhoneBook.DataAccess",
+        "projectPath": "C:\\Users\\STJ84063\\source\\repos\\PhoneBook\\PhoneBook.DataAccess\\PhoneBook.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\STJ84063\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\STJ84063\\source\\repos\\PhoneBook\\PhoneBook.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\STJ84063\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\STJ84063\\source\\repos\\PhoneBook\\PhoneBook.Entities\\PhoneBook.Entities.csproj": {
+                "projectPath": "C:\\Users\\STJ84063\\source\\repos\\PhoneBook\\PhoneBook.Entities\\PhoneBook.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\STJ84063\\source\\repos\\PhoneBook\\PhoneBook.Entities\\PhoneBook.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\STJ84063\\source\\repos\\PhoneBook\\PhoneBook.Entities\\PhoneBook.Entities.csproj",
+        "projectName": "PhoneBook.Entities",
+        "projectPath": "C:\\Users\\STJ84063\\source\\repos\\PhoneBook\\PhoneBook.Entities\\PhoneBook.Entities.csproj",
+        "packagesPath": "C:\\Users\\STJ84063\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\STJ84063\\source\\repos\\PhoneBook\\PhoneBook.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\STJ84063\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.7.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.20, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\STJ84063\\source\\repos\\PhoneBook\\PhoneBook.Services\\PhoneBook.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\STJ84063\\source\\repos\\PhoneBook\\PhoneBook.Services\\PhoneBook.Services.csproj",
+        "projectName": "PhoneBook.Services",
+        "projectPath": "C:\\Users\\STJ84063\\source\\repos\\PhoneBook\\PhoneBook.Services\\PhoneBook.Services.csproj",
+        "packagesPath": "C:\\Users\\STJ84063\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\STJ84063\\source\\repos\\PhoneBook\\PhoneBook.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\STJ84063\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\STJ84063\\source\\repos\\PhoneBook\\PhoneBook.Core\\PhoneBook.Core.csproj": {
+                "projectPath": "C:\\Users\\STJ84063\\source\\repos\\PhoneBook\\PhoneBook.Core\\PhoneBook.Core.csproj"
+              },
+              "C:\\Users\\STJ84063\\source\\repos\\PhoneBook\\PhoneBook.DataAccess\\PhoneBook.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\STJ84063\\source\\repos\\PhoneBook\\PhoneBook.DataAccess\\PhoneBook.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\STJ84063\\source\\repos\\PhoneBook\\PhoneBook\\PhoneBook.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\STJ84063\\source\\repos\\PhoneBook\\PhoneBook\\PhoneBook.Web.csproj",
+        "projectName": "PhoneBook.Web",
+        "projectPath": "C:\\Users\\STJ84063\\source\\repos\\PhoneBook\\PhoneBook\\PhoneBook.Web.csproj",
+        "packagesPath": "C:\\Users\\STJ84063\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\STJ84063\\source\\repos\\PhoneBook\\PhoneBook\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\STJ84063\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\STJ84063\\source\\repos\\PhoneBook\\PhoneBook.Core\\PhoneBook.Core.csproj": {
+                "projectPath": "C:\\Users\\STJ84063\\source\\repos\\PhoneBook\\PhoneBook.Core\\PhoneBook.Core.csproj"
+              },
+              "C:\\Users\\STJ84063\\source\\repos\\PhoneBook\\PhoneBook.Services\\PhoneBook.Services.csproj": {
+                "projectPath": "C:\\Users\\STJ84063\\source\\repos\\PhoneBook\\PhoneBook.Services\\PhoneBook.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

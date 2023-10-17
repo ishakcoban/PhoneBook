@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZsErNy5KtrWOuny2n7ZBUjQTVZOGUIOWlen8l+G/woY=",
+  "Source": "PhoneBook.Web",
+  "BasePath": "_content/PhoneBook.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
